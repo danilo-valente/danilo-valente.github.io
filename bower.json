@@ -1,0 +1,31 @@
+{
+  "name": "mygithubpage",
+  "version": "1.0.0",
+  "authors": [
+    "Danilo Valente <danilovalente96@gmail.com>"
+  ],
+  "description": "My personal website",
+  "main": "index.html",
+  "license": "MIT",
+  "homepage": "https://danilo-valente.github.io/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.3.1",
+    "font-awesome": "~4.2.0",
+    "angular-bootstrap": "~0.11.2",
+    "angular-gravatar": "~0.2.2",
+    "showdown": "~0.3.1",
+    "highlightjs": "~8.3.0",
+    "bootstrap-css-only": "~3.3.0"
+  },
+  "resolutions": {
+    "angular": "~1.3.1"
+  }
+}

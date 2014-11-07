@@ -1,0 +1,64 @@
+{
+    "name": "Danilo Valente",
+    "email": "danilovalente96@gmail.com",
+    "website": "http://danilo.me",
+    "website_repo": "https://github.com/danilo-valente/danilo-valente.github.io",
+    "birthday": 821410200000,
+    "location": {
+        "label": "Campinas, SP, Brazil",
+        "map": "https://www.google.com.br/maps/@-22.8951249,-47.0302608"
+    },
+    "github": {
+        "username": "danilo-valente",
+        "repos": []
+    },
+    "stack_exchange_id": "1465830",
+    "stack_overflow_id": "1378681",
+    "linkedin_id": "281977365",
+    "languages": [
+        {
+            "name": "Portuguese",
+            "level": 5,
+            "desc": "Native speaker"
+        },
+        {
+            "name": "English",
+            "level": 3.5,
+            "desc": "Good command"
+        },
+        {
+            "name": "German",
+            "level": 2,
+            "desc": "Basic"
+        }
+    ],
+    "education": [
+        {
+            "course": "BSc Computer Science",
+            "institution_name": "State University of Campinas",
+            "institution_website": "http://www.unicamp.br/",
+            "start": "2014"
+        },
+        {
+            "course": "Information Systems",
+            "institution_name": "Technical High School of Campinas",
+            "institutio_website": "http://cotuca.unicamp.br/",
+            "start": "2012",
+            "end": "2014"
+        }
+    ],
+    "jobs": [
+        {
+            "role": "Intern",
+            "employer_name": "Movile Internet Móvel S.A.",
+            "employer_website": "http://movile.com/",
+            "start": "2014"
+        },
+        {
+            "role": "Freelancer",
+            "employer_name": "Conpec – Consultoria, Projetos e Estudos em Computação",
+            "employer_website": "http://www.conpec.com.br/",
+            "start": "2014"
+        }
+    ]
+}

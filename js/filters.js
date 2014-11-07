@@ -4,12 +4,6 @@
 
     var filters = angular.module('app.filters', []);
 
-    filters.filter('age', function () {
-        return function (date) {
-            return new Date(new Date() - date).getUTCFullYear() - 1970;
-        };
-    });
-
     filters.filter('level', function () {
 
         return function (level, max) {
